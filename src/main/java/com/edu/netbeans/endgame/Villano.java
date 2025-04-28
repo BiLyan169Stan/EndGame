@@ -17,7 +17,7 @@ public class Villano extends Personaje{
     }
     
      @Override
-     public void atacar(){
-         System.out.println(nombre+ "Comanda su ejercito para atacar");
-     }
+    public void atacar(){
+        System.out.println(nombre+ "Comanda su ejercito para atacar");
+    }
 }
