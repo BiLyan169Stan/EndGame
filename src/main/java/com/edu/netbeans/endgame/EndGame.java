@@ -9,7 +9,6 @@ package com.edu.netbeans.endgame;
  * @author brian
  */
 public class EndGame{
-
     public static void main(String[] args) {
         Heroe blackPanther = new Heroe("Black Panter grr", "Ser el rey de todo Wakanda", "Garras de Vibranium");
         Villano galactus = new Villano("Galactus el devorador de mundos", "Devorar mundos", "usa de chalan a Silver Surfer");
